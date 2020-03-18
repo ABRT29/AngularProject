@@ -1,0 +1,113 @@
+{
+  "equipes": [
+    {
+      "id": 1,
+      "nom": "Paris Saint-Germain Football Club",
+      "pays": "France",
+      "president": "Nasser al-Khelaïfi",
+      "entraineur": "Thomas Tuchel",
+      "urlImg": "paris.png"
+    },
+    {
+      "id": 2,
+      "nom": "Olympique de Marseille",
+      "pays": "France",
+      "president": "Jacques-Henri Eyraud",
+      "entraineur": "André Villas-Boas",
+      "urlImg": "marseille.png"
+    },
+    {
+      "id": 3,
+      "nom": "Olympique lyonnais",
+      "pays": "France",
+      "president": "Jean-Michel Aulas",
+      "entraineur": "Rudi Garcia",
+      "urlImg": "lyon.png"
+    },
+    {
+      "id": 4,
+      "nom": "Stade rennais football club",
+      "pays": "France",
+      "president": "Olivier Létang",
+      "entraineur": "Julien Stéphan",
+      "urlImg": "marseille.png"
+    },
+    {
+      "urlImg": "QQQ.png",
+      "nom": "Barcelone",
+      "pays": "ESpAA",
+      "president": "QQQ",
+      "entraineur": "Q",
+      "id": 5
+    }
+  ],
+  "joueurs": [
+    {
+      "nom": "J2",
+      "pays": "FR",
+      "age": "23",
+      "taille": "123",
+      "poids": "23",
+      "poste": "ATTAQUANT",
+      "numero": "23",
+      "matchJoue": "123",
+      "equipeId": 2,
+      "id": 2
+    },
+    {
+      "nom": "J3",
+      "pays": "FR",
+      "age": "23",
+      "taille": "123",
+      "poids": "23",
+      "poste": "ATTAQUANT",
+      "numero": "23",
+      "matchJoue": "123",
+      "equipeId": 3,
+      "id": 3
+    },
+    {
+      "nom": "J4",
+      "pays": "FR",
+      "age": "23",
+      "taille": "123",
+      "poids": "23",
+      "poste": "ATTAQUANT",
+      "numero": "23",
+      "matchJoue": "123",
+      "equipeId": 4,
+      "id": 4
+    },
+    {
+      "nom": "J5",
+      "pays": "FR",
+      "age": "23",
+      "taille": "123",
+      "poids": "23",
+      "poste": "ATTAQUANT",
+      "numero": "23",
+      "matchJoue": "123",
+      "equipeId": 5,
+      "id": 5
+    },
+    {
+      "nom": "J6",
+      "pays": "FR",
+      "age": "23",
+      "taille": "123",
+      "poids": "23",
+      "poste": "ATTAQUANT",
+      "numero": "23",
+      "matchJoue": "123",
+      "equipeId": 1,
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin"
+    }
+  ]
+}
